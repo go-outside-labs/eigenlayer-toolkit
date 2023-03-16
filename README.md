@@ -1,2 +1,17 @@
-# eigenlayer-toolkit
-⛓🫱🏻‍🫲🏽 𝗳𝗿𝗲𝗲-𝗺𝗮𝗿𝗸𝗲𝘁 𝗮𝘁 𝘁𝗵𝗲 𝗺𝗶𝗱𝗱𝗹𝗲𝘄𝗮𝗿𝗲 𝗹𝗲𝘃𝗲𝗹
+## ⛓🫱🏻‍🫲🏽 eigenlayer toolkit
+
+<br>
+
+##### 👉 start with [my in-depth analysis on eigenlayer and cross-chain mev]()
+
+<br>
+
+
+---
+
+### resources
+
+<br>
+
+* [eigenlayer whitepaper](https://eigenlayer.xyz/whitepaper.pdf)
+* [eigenlayer resources](https://hackmd.io/@Restakers/EigenLayer-Unofficial)
