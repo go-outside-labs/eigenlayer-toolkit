@@ -6,6 +6,10 @@
 
 <br>
 
+### slashing
+
+* [cryptoeconomics of slashing](https://a16zcrypto.com/content/article/the-cryptoeconomics-of-slashing/)
+
 
 ---
 
