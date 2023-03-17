@@ -2,7 +2,12 @@
 
 <br>
 
-##### 👉 start with [my in-depth analysis on eigenlayer and cross-chain mev]()
+### tl; dr
+
+<br>
+
+* [eigenlayer](https://www.eigenlayer.xyz/) is a revolutionary project is allowing pooling restaking to ethereum through the middleware level so that the trust can me "decentralized"
+* their frist product is a data availability module called EigenDA.
 
 <br>
 
