@@ -10,7 +10,7 @@
 * their frist product is a data availability module called EigenDA ([here is mantle.xyz's eigenlayer txn](https://explorer.testnet.mantle.xyz/eigenda-batches?batch_index=2634&page_number=1&page_size=50&pages_limit=54))
 
 <br>
-
+ 
 ### slashing
 
 <br>
