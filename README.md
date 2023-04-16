@@ -12,6 +12,8 @@
 
 <br>
  
+--- 
+
 ### slashing
 
 <br>
@@ -28,3 +30,4 @@
 
 * [eigenlayer whitepaper](https://eigenlayer.xyz/whitepaper.pdf)
 * [eigenlayer resources](https://hackmd.io/@Restakers/EigenLayer-Unofficial)
+* [eingenlayer testnet](https://twitter.com/eigenlayer/status/1644075234176409605)
